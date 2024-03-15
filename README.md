@@ -40,11 +40,10 @@ Orders Calendar View: A calendar interface displaying orders based on their expe
 Dependencies:
 
 React
+
 React Router
+
 React Big Calendar (for the optional calendar view)
+
 Moment.js (for the optional calendar view)
-
-Contributing:
-
-If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome any contributions that improve the functionality or usability of the ERP system.
 
