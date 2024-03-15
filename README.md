@@ -47,3 +47,22 @@ React Big Calendar (for the optional calendar view)
 
 Moment.js (for the optional calendar view)
 
+Dashboard:
+Overview Logic: Retrieves and displays summary metrics or features of the ERP system, such as total number of products and orders.
+Navigation Logic: Implements links or buttons that allow users to navigate to the Products and Orders management pages.
+
+
+Products Management:
+Product List Logic: Retrieves and displays a list of products with details such as name, category, price, and stock quantity from mock data.
+CRUD Operations: Implements functionalities to add, edit, and delete products, updating the product list accordingly.
+
+
+Orders Management:
+Order List Logic: Retrieves and displays a list of orders with details like order ID, customer name, order date, and status from mock data.
+Order Handling: Provides functionalities to view order details, update order status, and delete orders, updating the order list accordingly.
+
+
+Orders Calendar View (Optional):
+Calendar Logic: Implements a calendar view that displays orders based on their expected delivery dates.
+Date Selection: Allows users to click on a date to view all orders due for delivery on that day.
+
